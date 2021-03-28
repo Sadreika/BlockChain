@@ -1,0 +1,7 @@
+C:\Users\mariu\Documents\GitHub\BlockChain\BlockChain\BlockChain\bin\Debug\BlockChain.exe.config
+C:\Users\mariu\Documents\GitHub\BlockChain\BlockChain\BlockChain\bin\Debug\BlockChain.exe
+C:\Users\mariu\Documents\GitHub\BlockChain\BlockChain\BlockChain\bin\Debug\BlockChain.pdb
+C:\Users\mariu\Documents\GitHub\BlockChain\BlockChain\BlockChain\obj\Debug\BlockChain.csprojAssemblyReference.cache
+C:\Users\mariu\Documents\GitHub\BlockChain\BlockChain\BlockChain\obj\Debug\BlockChain.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\BlockChain\BlockChain\BlockChain\obj\Debug\BlockChain.exe
+C:\Users\mariu\Documents\GitHub\BlockChain\BlockChain\BlockChain\obj\Debug\BlockChain.pdb
